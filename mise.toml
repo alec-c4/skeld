@@ -1,0 +1,3 @@
+[tasks.build]
+description = "Build binary"
+run = ["go build -o ./build/skeld"]
